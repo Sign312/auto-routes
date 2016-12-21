@@ -14,7 +14,6 @@ let autoRoutes = function (app, routesDir, routesPassed = '/') {
 	}
 
 	let items = fs.readdirSync(routesDir)
-
 	items.forEach(function (data, index) {
 		let itemPath = path.join(routesDir, data)
 		if (fs.statSync(itemPath).isDirectory()) {

@@ -23,6 +23,10 @@ a tool for express to auto map url routes and project's routes directory
 
 然后，auto-routes就会自动帮你生成路由 ^.^
 
+注意:index.js对应默认路径'/'
+
+[简单demo](https://github.com/flypie2/auto-routes-demo)
+
 ### dependence:
 
 node.js V4+
