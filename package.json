@@ -1,6 +1,6 @@
 {
   "name": "auto-routes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a tool for express to auto map url routes and project's routes directory ",
   "main": "auto-routes.js",
   "scripts": {
